@@ -1,3 +1,3 @@
 # Q2---Circulo
 
-Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
+Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
